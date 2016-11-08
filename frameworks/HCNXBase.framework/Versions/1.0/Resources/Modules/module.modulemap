@@ -1,0 +1,6 @@
+framework module HCNXBase {
+  umbrella header "HCNXBase.h"
+
+  export *
+  module * { export * }
+}
